@@ -1,0 +1,31 @@
+    TOONZ Mission    
+        
+        TOONZ is all about accessibility. We wanted people to be able to find and add playlists to
+    their Spotify accounts by simply expressing the mood of music they want to listen to with
+    emojis. Emojis have become an internet and mobile device phenomenon and act as the go-to 
+    form for expressing emotions that may otherwise be difficult to capture through words. The best thing
+    about these emojis, however, is that they are universal; and thus, they guarentee greater
+    accessibility. No matter reading ability, first language or other language barrier, TOONZ can 
+    grant users access to all of their favorite music.
+
+    TOONZ Documentation
+    
+    User Guide
+    
+    Log In
+    
+    	Upon opening the website, the user finds our logo and a button reading “Log in Through Spotify”. 
+    	Once clicked, the user is redirected to a Spotify login page where they have the option of logging in or signing up to Spotify. 
+    	After the user logs in with their information, and allows TOONZ to access their account, they will find our single main page.
+    
+    Main Page
+    
+        The main page includes a search bar reading “Choose Your Emoji” and a white emoji picker within that search bar. 
+        The emoji picker is a drop down box with two tabs, “Recents” and “Faces”. To choose an emoji, 
+        the user clicks on the white emoji picker and selects the “Faces” tab to see over 50 emoji faces. 
+    	
+    Searching
+    
+    	Once the user finds the right emoji that reflects their mood, they can click on the emoji and click the search bar. 
+    	Immediately, on the same page, several related playlists pop up beneath the search bar for the user to explore. 
+    	Finally, the user can click on any of these playlists and listen to the first 30 seconds of the first song. 
